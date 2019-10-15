@@ -2,7 +2,7 @@
 Projektna naloga iz analize podatkov pri predmetu Programiranje 1
 
 
-Analiziral bom 500 najbogatejših zemljanov. Podatke bom pridobil s strani
+## Analiziral bom 500 najbogatejših zemljanov. Podatke bom pridobil s strani
 [Bloomberg](https://www.bloomberg.com//billionaires/). 
 
 Za vsakega predstavnika bom zajel:
