@@ -1,6 +1,6 @@
 # Najbogatejši zemljani
 
-###Projektna naloga iz analize podatkov pri predmetu Programiranje 1
+### Projektna naloga iz analize podatkov pri predmetu Programiranje 1
 
 ## Uvod
 
