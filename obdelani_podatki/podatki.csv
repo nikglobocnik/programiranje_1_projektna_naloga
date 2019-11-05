@@ -1,0 +1,501 @@
+mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,letna_sprememba_procenti,drzava,podrocje
+1,Jeff Bezos,112000000000,876000000,0.8,-13200000000,-10.6,United States,Technology
+2,Bill Gates,109000000000,453000000,0.4,18300000000,20.2,United States,Technology
+3,Bernard Arnault,98100000000,790000000,0.8,29500000000,43.0,France,Consumer
+4,Warren Buffett,85100000000,1340000000,1.6,1300000000,1.6,United States,Diversified
+5,Mark Zuckerberg,74200000000,727000000,1.0,22200000000,42.6,United States,Technology
+6,Amancio Ortega,68900000000,600000000,0.9,10300000000,17.6,Spain,Retail
+7,Larry Page,61700000000,616000000,1.0,10500000000,20.4,United States,Technology
+8,Charles Koch,60700000000,-141000000,-0.2,1300000000,2.2,United States,Industrial
+9,Julia Flesher Koch,60700000000,-141000000,-0.2,60700000000,0.0,United States,Industrial
+10,Larry Ellison,60000000000,505000000,0.8,10700000000,21.6,United States,Technology
+11,Sergey Brin,59900000000,571000000,1.0,10100000000,20.2,United States,Technology
+12,Carlos Slim,58800000000,1350000000,2.4,4059999999,7.4,Mexico,Diversified
+13,Francoise Bettencourt Meyers,58000000000,-202000000,-0.3,11800000000,25.6,France,Consumer
+14,Mukesh Ambani,57000000000,146000000,0.3,12700000000,28.7,India,Energy
+15,Rob Walton,53500000000,164000000,0.3,9730000000,22.2,United States,Retail
+16,Jim Walton,53300000000,171000000,0.3,9380000000,21.4,United States,Retail
+17,Steve Ballmer,53300000000,142000000,0.3,14600000000,37.8,United States,Technology
+18,Alice Walton,52300000000,155000000,0.3,9750000000,22.9,United States,Retail
+19,Jacqueline Mars,41600000000,-337000000,-0.8,8890000000,27.1,United States,Food &amp; Beverage
+20,John Mars,41600000000,-337000000,-0.8,8880000000,27.1,United States,Food &amp; Beverage
+21,Jack Ma,41600000000,-28500000,-0.1,5920000000,16.6,China,Technology
+22,Francois Pinault,37700000000,334000000,0.9,7630000000,25.4,France,Consumer
+23,MacKenzie Bezos,36000000000,292000000,0.8,36000000000,0.0,United States,Technology
+24,Sheldon Adelson,35500000000,548000000,1.6,6140000000,20.9,United States,Entertainment
+25,Pony Ma,33299999999,76200000,0.2,1060000000,3.3,China,Technology
+26,Phil Knight,33000000000,0,0.0,3990000000,13.7,United States,Consumer
+27,Tadashi Yanai,31900000000,197000000,0.6,5380000000,20.3,Japan,Retail
+28,Michael Dell,31300000000,170000000,0.5,3060000000,10.9,United States,Technology
+29,Giovanni Ferrero,30000000000,-267000000,-0.9,7620000000,34.1,Italy,Food &amp; Beverage
+30,Li Ka-Shing,28300000000,105000000,0.4,125000000,0.4,Hong Kong,Real Estate
+31,Alain Wertheimer,27300000000,-207000000,-0.8,8270000000,43.4,France,Consumer
+32,Gerard Wertheimer,27300000000,-207000000,-0.8,8270000000,43.4,France,Consumer
+33,Hui Ka Yan,27100000000,365000000,1.4,-5170000000,-16.1,China,Real Estate
+34,Vladimir Potanin,26800000000,403000000,1.5,7120000000,36.3,Russian Federation,Commodities
+35,Len Blavatnik,25900000000,296000000,1.2,7580000000,41.3,United States,Diversified
+36,Elon R Musk,25700000000,-62300000,-0.2,1680000000,7.0,United States,Technology
+37,Dieter Schwarz,25400000000,45400000,0.2,3010000000,13.4,Germany,Retail
+38,Leonardo del Vecchio,24600000000,-71900000,-0.3,4130000000,20.1,Italy,Consumer
+39,Lee Shau Kee,24300000000,68500000,0.3,3180000000,15.1,Hong Kong,Real Estate
+40,Leonid Mikhelson,24200000000,312000000,1.3,4810000000,24.8,Russian Federation,Energy
+41,Laurene Powell Jobs,24100000000,480000000,2.0,6040000000,33.3,United States,Media &amp; Telecom
+42,Yang Huiyan,24100000000,350000000,1.5,5910000000,32.5,China,Real Estate
+43,Jorge Paulo Lemann,22500000000,-75500000,-0.3,2960000000,15.1,Brazil,Food &amp; Beverage
+44,Pallonji Mistry,22100000000,-329000000,-1.5,1420000000,6.9,Ireland,Industrial
+45,Colin Huang,21500000000,316000000,1.5,9880000000,84.9,China,Technology
+46,Carl Icahn,20900000000,199000000,1.0,3690000000,21.4,United States,Diversified
+47,Elaine Marshall,20900000000,-49000000,-0.2,470000000,2.3,United States,Industrial
+48,Vagit Alekperov,20900000000,519000000,2.5,4850000000,30.2,Russian Federation,Energy
+49,Jim Simons,20700000000,50000000,0.2,5350000000,34.8,United States,Finance
+50,Leonard  Lauder,20700000000,52900000,0.3,5510000000,36.4,United States,Consumer
+51,Charoen Sirivadhanabhakdi,20500000000,-6550000,-0.0,7970000000,63.6,Thailand,Food &amp; Beverage
+52,Stefan Persson,20500000000,178000000,0.9,5890000000,40.4,Sweden,Retail
+53,Takemitsu Takizaki,20200000000,1410000000,7.5,5140000000,34.2,Japan,Technology
+54,He Xiangjian,20200000000,866000000,4.5,7120000000,54.6,China,Consumer
+55,Azim Premji,20100000000,115000000,0.6,2780000000,16.0,India,Technology
+56,Susanne Klatten,19900000000,216000000,1.1,144000000,0.7,Germany,Industrial
+57,Vladimir Lisin,19400000000,198000000,1.0,1530000000,8.6,Russian Federation,Industrial
+58,Jim Ratcliffe,19000000000,344000000,1.8,6500000000,51.9,United Kingdom,Industrial
+59,Alexey Mordashov,18800000000,266000000,1.4,1320000000,7.5,Russian Federation,Industrial
+60,Lukas Walton,18500000000,63800000,0.3,3390000000,22.4,United States,Retail
+61,Gennady Timchenko,18500000000,277000000,1.5,4640000000,33.5,Russian Federation,Diversified
+62,Joseph Safra,18300000000,190000000,1.1,2590000000,16.4,Brazil,Finance
+63,Lee Kun Hee,18000000000,275000000,1.6,2560000000,16.6,"Korea, Republic of",Diversified
+64,Gina Rinehart,17900000000,2069999999,13.1,3700000000,26.1,Australia,Commodities
+65,Steve Schwarzman,17900000000,139000000,0.8,6370000000,55.5,United States,Finance
+66,William Ding,17400000000,214000000,1.3,3400000000,24.4,China,Technology
+67,Ernesto Bertarelli,17200000000,25100000,0.1,1970000000,12.9,Switzerland,Diversified
+68,Klaus-Michael Kuehne,17000000000,96700000,0.6,4940000000,41.0,Germany,Industrial
+69,Lui Che Woo,16899999999,3210000,0.0,2930000000,21.0,Hong Kong,Entertainment
+70,Abby  Johnson,16700000000,195000000,1.2,4900000000,41.5,United States,Finance
+71,John Menard Jr,16700000000,211000000,1.3,3600000000,27.5,United States,Retail
+72,Heinz Hermann Thiele,16600000000,123000000,0.8,2040000000,14.0,Germany,Industrial
+73,Ray Dalio,16600000000,0,0.0,2100000000,14.5,United States,Finance
+74,Stefan Quandt,16500000000,179000000,1.1,91100000,0.6,Germany,Industrial
+75,Henry Cheng,16500000000,105000000,0.6,2560000000,18.4,Hong Kong,Retail
+76,Robert Kuok,16300000000,124000000,0.8,-177000000,-1.1,Malaysia,Diversified
+77,Donald Bren,16200000000,0,0.0,-1000000000,-5.8,United States,Real Estate
+78,Shiv Nadar,16100000000,7920000,0.1,2500000000,18.4,India,Technology
+79,Lee Man Tat,16000000000,46400000,0.3,-762000000,-4.5,Hong Kong,Food &amp; Beverage
+80,Carl Cook,15900000000,-22400000,-0.1,3630000000,29.6,United States,Health Care
+81,Alisher Usmanov,15900000000,81500000,0.5,1690000000,11.9,Russian Federation,Diversified
+82,Budi Hartono,15800000000,94900000,0.6,2210000000,16.2,Indonesia,Diversified
+83,Charlene de Carvalho-Heineken,15600000000,-37700000,-0.2,1710000000,12.3,Netherlands,Food &amp; Beverage
+84,Roman Abramovich,15500000000,198000000,1.3,1390000000,9.8,Russian Federation,Diversified
+85,Aliko Dangote,15300000000,13000000,0.1,4810000000,45.8,Nigeria,Industrial
+86,Donald Newhouse,15200000000,206000000,1.4,4099999999,36.8,United States,Media &amp; Telecom
+87,Thomas Peterffy,15200000000,-175000000,-1.1,-2260000000,-12.9,United States,Finance
+88,Iris Fontbona,15200000000,198000000,1.3,931000000,6.5,Chile,Commodities
+89,Wang Jianlin,15000000000,189000000,1.3,-2580000000,-14.7,China,Real Estate
+90,Hasso Plattner,14900000000,82600000,0.6,2940000000,24.6,Germany,Technology
+91,Michael Hartono,14900000000,88200000,0.6,2000000000,15.5,Indonesia,Diversified
+92,Eric Schmidt,14800000000,115000000,0.8,2430000000,19.6,United States,Technology
+93,Alwaleed Al Saud,14500000000,-5220000,-0.0,-90300000,-0.6,Saudi Arabia,Diversified
+94,Andrey Melnichenko,14500000000,-25000000,-0.2,2029999999,16.3,Russian Federation,Industrial
+95,Viktor Vekselberg,14300000000,16500000,0.1,1140000000,8.7,Russian Federation,Industrial
+96,Ricardo Salinas,14100000000,100000000,0.7,4070000000,40.4,Mexico,Diversified
+97,Uday Kotak,14100000000,144000000,1.0,2570000000,22.4,India,Finance
+98,Sun Piaoyang,13900000000,247000000,1.8,7860000000,129.2,China,Health Care
+99,Zhang Zhidong,13900000000,34200000,0.3,381000000,2.8,China,Technology
+100,Masayoshi Son,13900000000,-16800000,-0.1,1730000000,14.3,Japan,Technology
+101,Mikhail Fridman,13600000000,98900000,0.7,1090000000,8.7,Russian Federation,Diversified
+102,Alejandro Santo Domingo,13400000000,-80100000,-0.6,2220000000,19.9,Colombia,Food &amp; Beverage
+103,Jim Goodnight,13100000000,62100000,0.5,2690000000,25.8,United States,Technology
+104,Pang Kang,13100000000,76300000,0.6,5040000000,62.5,China,Food &amp; Beverage
+105,James Dyson,13000000000,366000000,2.9,3780000000,40.9,United Kingdom,Consumer
+106,Zhang Yiming,13000000000,0,0.0,0,0.0,China,Technology
+107,Reinhold Wuerth,13000000000,236000000,1.9,2860000000,28.3,Germany,Industrial
+108,Dustin Moskovitz,12800000000,89200000,0.7,2900000000,29.2,United States,Technology
+109,Petr Kellner,12700000000,65500000,0.5,1210000000,10.5,Czech Republic,Diversified
+110,Thomas Frist,12700000000,32700000,0.3,1090000000,9.4,United States,Health Care
+111,Zhong Huijuan,12500000000,-148000000,-1.2,6230000000,99.3,China,Health Care
+112,Karl Albrecht Jr,12400000000,22200000,0.2,3520000000,39.6,Germany,Retail
+113,Beate Heister,12400000000,22200000,0.2,3520000000,39.6,Germany,Retail
+114,Lakshmi Mittal,12400000000,377000000,3.1,-1390000000,-10.1,India,Commodities
+115,Phil Anschutz,12200000000,32900000,0.3,719000000,6.3,United States,Diversified
+116,Patrick Drahi,12200000000,152000000,1.3,6230000000,104.7,France,Media &amp; Telecom
+117,Charlie Ergen,12200000000,137000000,1.1,3110000000,34.3,United States,Media &amp; Telecom
+118,Raymond Kwok,11900000000,-19900000,-0.2,909000000,8.3,Hong Kong,Real Estate
+119,Hugh Grosvenor,11800000000,0,0.0,-625000000,-5.0,United Kingdom,Real Estate
+120,Peter Woo,11800000000,-90600000,-0.8,1240000000,11.8,Hong Kong,Real Estate
+121,Luis Sarmiento,11700000000,444000000,3.9,2550000000,27.8,Colombia,Finance
+122,Goh Cheng Liang,11700000000,130000000,1.1,4179999999,55.3,Singapore,Industrial
+123,Li Shu Fu,11700000000,-37200000,-0.3,1450000000,14.1,China,Industrial
+124,Liu Yonghao,11600000000,54400000,0.5,5820000000,100.3,China,Diversified
+125,David Tepper,11500000000,25000000,0.2,353000000,3.2,United States,Finance
+126,Mikhail Prokhorov,11400000000,-19100000,-0.2,904000000,8.6,Russian Federation,Diversified
+127,Thomas Kwok,11400000000,-18700000,-0.2,427000000,3.9,Hong Kong,Real Estate
+128,Wu Yajun,11400000000,-15900000,-0.1,3330000000,41.5,China,Real Estate
+129,Sara Mota de Larrea,11200000000,124000000,1.1,2580000000,30.1,Mexico,Commodities
+130,Dietrich Mateschitz,11100000000,71700000,0.7,-1420000000,-11.3,Austria,Food &amp; Beverage
+131,Eyal Ofer,11100000000,30900000,0.3,1750000000,18.7,Israel,Services
+132,Dave Duffield,11100000000,193000000,1.8,542000000,5.1,United States,Technology
+133,Gordon Moore,11000000000,21000000,0.2,1760000000,19.0,United States,Technology
+134,Jan Koum,11000000000,50000000,0.5,1230000000,12.7,United States,Technology
+135,Stefano Pessina,10800000000,402000000,3.9,-1010000000,-8.5,Monaco,Retail
+136,Micky Arison,10800000000,30400000,0.3,249000000,2.4,United States,Entertainment
+137,Yongxing Liu,10800000000,-140000000,-1.3,3570000000,49.5,China,Industrial
+138,Michael Kadoorie,10700000000,79600000,0.8,-299000000,-2.7,Hong Kong,Energy
+139,Joseph Tsai,10700000000,-10500000,-0.1,1980000000,22.6,Canada,Technology
+140,Radhakishan Damani,10600000000,-64900000,-0.6,1760000000,19.9,India,Retail
+141,Eduardo Saverin,10500000000,105000000,1.0,3380000000,47.3,Brazil,Technology
+142,Marcel Telles,10400000000,-35000000,-0.3,1390000000,15.3,Brazil,Food &amp; Beverage
+143,Autry Stephens,10400000000,0,0.0,-950000000,-8.4,United States,Energy
+144,Marijke Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food &amp; Beverage
+145,Victoria Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food &amp; Beverage
+146,Pam Mars-Wright,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food &amp; Beverage
+147,Valerie Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food &amp; Beverage
+148,George Kaiser,10300000000,82700000,0.8,189000000,1.9,United States,Energy
+149,Ron Perelman,10000000000,101000000,1.0,233000000,2.4,United States,Diversified
+150,Gautam Adani,10000000000,96600000,1.0,2240000000,28.9,India,Industrial
+151,Ned Johnson III,9910000000,106000000,1.1,3110000000,45.7,United States,Finance
+152,Stephen Ross,9900000000,0,0.0,-150000000,-1.5,United States,Real Estate
+153,Ken Griffin,9850000000,5170000,0.1,1050000000,11.9,United States,Finance
+154,Sun Hongbin,9840000000,376000000,4.0,3210000000,48.3,United States,Real Estate
+155,Wang Wei,9810000000,19000000,0.2,-526000000,-5.1,China,Services
+156,Hui Wing Mau,9760000000,245000000,2.6,2370000000,32.0,Hong Kong,Real Estate
+157,Pham Nhat Vuong,9650000000,305000000,3.3,2109999999,28.0,Viet Nam,Real Estate
+158,Dietmar Hopp,9620000000,69800000,0.7,2390000000,33.0,Germany,Technology
+159,Ma Jianrong,9620000000,-14600000,-0.1,1660000000,20.8,China,Consumer
+160,Jim Davis,9580000000,42800000,0.5,2660000000,38.5,United States,Consumer
+161,Georg Schaeffler,9510000000,200000000,2.1,-992000000,-9.4,Germany,Industrial
+162,Lei Jun,9480000000,85600000,0.9,-2380000000,-20.1,China,Technology
+163,Dmitry Rybolovlev,9460000000,8170000,0.1,-592000000,-5.9,Russian Federation,Diversified
+164,David Geffen,9450000000,129000000,1.4,1780000000,23.2,United States,Entertainment
+165,Sherry Brydson,9400000000,48700000,0.5,2530000000,36.9,Canada,Media &amp; Telecom
+166,Harry Triguboff,9380000000,0,0.0,181000000,2.0,Australia,Real Estate
+167,Carlos Sicupira,9340000000,-10800000,-0.1,1030000000,12.4,Brazil,Food &amp; Beverage
+168,Steve Cohen,9210000000,1870000,0.0,-971000000,-9.5,United States,Finance
+169,German Khan,9190000000,65500000,0.7,792000000,9.4,Russian Federation,Diversified
+170,Wee Cho Yaw,9130000000,-14900000,-0.2,1320000000,16.9,Singapore,Finance
+171,Galen Weston,9120000000,-16000000,-0.2,2320000000,34.2,Canada,Retail
+172,Alberto Bailleres,9030000000,149000000,1.7,-963000000,-9.6,Mexico,Commodities
+173,Harold Hamm,8980000000,184000000,2.1,-2860000000,-24.1,United States,Energy
+174,Xu Shihui,8980000000,30300000,0.3,99700000,1.1,China,Food &amp; Beverage
+175,Li Xiting,8970000000,96800000,1.1,3670000000,69.2,Singapore,Health Care
+176,August von Finck,8920000000,-14800000,-0.2,715000000,8.7,Germany,Diversified
+177,Reinhold Schmieding,8860000000,52400000,0.6,1920000000,27.6,United States,Health Care
+178,Mohammed Al-Amoudi,8850000000,72100000,0.8,566000000,6.8,Saudi Arabia,Energy
+179,Theo Albrecht Jr,8840000000,28800000,0.3,2330000000,35.8,Germany,Retail
+180,Gianluigi Aponte,8810000000,112000000,1.3,1280000000,17.0,Switzerland,Services
+181,John Fredriksen,8730000000,145000000,1.7,398000000,4.8,Cyprus,Industrial
+182,Patrick Soon-Shiong,8680000000,30900000,0.4,1040000000,13.7,United States,Health Care
+183,Victor Rashnikov,8630000000,132000000,1.6,192000000,2.3,Russian Federation,Industrial
+184,Shu Ping,8580000000,-123000000,-1.4,4780000000,125.6,Singapore,Food &amp; Beverage
+185,Zhang Yong,8560000000,-123000000,-1.4,4750000000,125.0,Singapore,Food &amp; Beverage
+186,Leonid Fedun,8510000000,225000000,2.7,1980000000,30.3,Russian Federation,Energy
+187,Christy Walton,8500000000,23000000,0.3,1570000000,22.6,United States,Retail
+188,Heinrich Deichmann,8490000000,121000000,1.4,2340000000,38.1,Germany,Retail
+189,Sarath Ratanavadi,8439999999,21500000,0.3,4490000000,113.5,Thailand,Energy
+190,Charles Schwab,8400000000,162000000,2.0,449000000,5.6,United States,Finance
+191,Xu Hang,8300000000,87900000,1.1,3320000000,66.8,Hong Kong,Health Care
+192,Marian Ilitch,8289999999,-35600000,-0.4,2000000000,31.8,United States,Food &amp; Beverage
+193,Cyrus Poonawalla,8270000000,82900000,1.0,207000000,2.6,India,Health Care
+194,Andy Beal,8260000000,55500000,0.7,31900000,0.4,United States,Finance
+195,Dan Gilbert,8160000000,179000000,2.3,2250000000,38.2,United States,Real Estate
+196,John Albert Sobrato,8150000000,0,0.0,877000000,12.1,United States,Real Estate
+197,Paolo Rocca,8140000000,329000000,4.2,1050000000,14.8,Italy,Commodities
+198,Emmanuel Besnier,8070000000,-75100000,-0.9,720000000,9.8,France,Food &amp; Beverage
+199,Silvio Berlusconi,8050000000,65200000,0.8,1070000000,15.4,Italy,Media &amp; Telecom
+200,Gustaf Douglas,8029999999,128000000,1.6,704000000,9.6,Sweden,Diversified
+201,John Malone,8020000000,31200000,0.4,-76400000,-0.9,United States,Media &amp; Telecom
+202,Stan Kroenke,8000000000,0,0.0,-40000000,-0.5,United States,Real Estate
+203,Richard Kinder,7980000000,130000000,1.7,1840000000,30.0,United States,Energy
+204,Robert Rowling,7870000000,98100000,1.3,-1150000000,-12.7,United States,Energy
+205,Scott Farquhar,7830000000,122000000,1.6,1990000000,34.0,Australia,Technology
+206,Mike Cannon-Brookes,7830000000,122000000,1.6,1990000000,34.0,Australia,Technology
+207,Blair Parry-Okeden,7820000000,-260000000,-3.2,-71900000,-0.9,United States,Media &amp; Telecom
+208,Jim Kennedy,7820000000,-260000000,-3.2,-71900000,-0.9,United States,Media &amp; Telecom
+209,Melker Schorling,7780000000,165000000,2.2,333000000,4.5,Sweden,Diversified
+210,Tan Siok Tjien,7740000000,-221000000,-2.8,-2290000000,-22.8,Indonesia,Consumer
+211,Andrew Forrest,7730000000,86600000,1.1,4500000000,139.7,Australia,Commodities
+212,George Lucas,7690000000,104000000,1.4,1090000000,16.5,United States,Entertainment
+213,Robin Li,7660000000,198000000,2.6,-3760000000,-32.9,China,Technology
+214,Zhang Bangxin,7650000000,-3520000,-0.1,2860000000,59.6,China,Services
+215,Joseph Lau,7620000000,-1850000,-0.0,-729000000,-8.7,Hong Kong,Real Estate
+216,Dilip Shanghvi,7600000000,138000000,1.8,-662000000,-8.0,India,Health Care
+217,Charles Gerald John Cadogan,7600000000,0,0.0,-327000000,-4.1,United Kingdom,Real Estate
+218,Lu Zhongfang,7510000000,-16800000,-0.2,4800000000,177.3,China,Services
+219,Kei Hoi Pang,7450000000,164000000,2.2,1800000000,31.8,China,Real Estate
+220,Hansjoerg Wyss,7410000000,36900000,0.5,763000000,11.5,Switzerland,Health Care
+221,Richard Liu,7400000000,75100000,1.0,2380000000,47.4,China,Technology
+222,Eli Broad,7400000000,0,0.0,480000000,6.9,United States,Diversified
+223,Jorn Rausing,7360000000,47000000,0.6,1170000000,19.0,Sweden,Services
+224,Antonia Axson Johnson,7340000000,94600000,1.3,1080000000,17.3,Sweden,Industrial
+225,Qin Yinglin,7330000000,-299000000,-3.9,5090000000,226.7,China,Food &amp; Beverage
+226,Robert Pera,7320000000,-205000000,-2.7,1410000000,23.9,United States,Technology
+227,John P Grayken,7250000000,178000000,2.5,1630000000,29.1,Ireland,Finance
+228,Tim Sweeney,7230000000,25000000,0.3,75000000,1.1,United States,Technology
+229,Mohamed Al Jaber,7190000000,-23200,0.0,4900000,0.1,Saudi Arabia,Retail
+230,Johann Rupert,7190000000,93300000,1.3,1160000000,19.2,South Africa,Diversified
+231,Sandra Ortega Mera,7190000000,81800000,1.1,1150000000,19.1,Spain,Retail
+232,Leon Black,7190000000,219000000,3.1,1980000000,38.2,United States,Finance
+233,Geoffrey Kwok,7160000000,-14600000,-0.2,599000000,9.1,Hong Kong,Real Estate
+234,Nusli Wadia,7160000000,80400000,1.1,-140000000,-1.9,India,Diversified
+235,Pierre Omidyar,7140000000,56500000,0.8,-926000000,-11.5,United States,Technology
+236,Gong Hongjia,7110000000,72100000,1.0,786000000,12.4,China,Technology
+237,Dang Yanbao,7110000000,37300000,0.5,-1220000000,-14.7,China,Energy
+238,Rupert Murdoch,7110000000,95700000,1.4,-10900000000,-60.6,United States,Media &amp; Telecom
+239,Arthur Irving,7070000000,101000000,1.4,1920000000,37.3,Canada,Energy
+240,Nicky Oppenheimer,7000000000,-25000000,-0.4,400000000,6.1,South Africa,Diversified
+241,Henry Kravis,6990000000,80700000,1.2,1530000000,28.1,United States,Finance
+242,George Roberts,6990000000,83700000,1.2,1570000000,28.8,United States,Finance
+243,Marc Benioff,6950000000,113000000,1.6,933000000,15.5,United States,Technology
+244,Alexey Kuzmichev,6950000000,50800000,0.7,594000000,9.3,Russian Federation,Diversified
+245,Bob Rich,6930000000,-13500000,-0.2,1460000000,26.6,United States,Food &amp; Beverage
+246,Jude Reyes,6910000000,140000000,2.1,2560000000,59.0,United States,Consumer
+247,Chris Reyes,6910000000,140000000,2.1,2560000000,59.0,United States,Consumer
+248,Ludwig Merckle,6880000000,82800000,1.2,1520000000,28.3,Germany,Industrial
+249,Manny Villar,6880000000,47200000,0.7,2380000000,53.0,Philippines,Diversified
+250,Wang Xing,6860000000,11500000,0.2,3650000000,113.5,China,Technology
+251,Ronald McAulay,6850000000,39600000,0.6,-11100000,-0.2,Hong Kong,Energy
+252,Alexander Abramov,6840000000,75400000,1.1,819000000,13.6,Russian Federation,Industrial
+253,Johann Graf,6810000000,44600000,0.7,973000000,16.7,Austria,Entertainment
+254,Graeme Hart,6790000000,67300000,1.0,911000000,15.5,New Zealand,Finance
+255,Nassef Sawiris,6770000000,92500000,1.4,817000000,13.7,Egypt,Industrial
+256,Rocco Commisso,6770000000,49500000,0.7,2810000000,71.0,United States,Media &amp; Telecom
+257,George Soros,6700000000,0,0.0,-300000000,-4.3,United States,Finance
+258,Cai Kui,6640000000,-8450000,-0.1,1830000000,37.9,China,Real Estate
+259,Ralph Lauren,6640000000,49100000,0.7,358000000,5.7,United States,Consumer
+260,Yasumitsu Shigeta,6630000000,-6690000,-0.1,1880000000,39.5,Japan,Media &amp; Telecom
+261,Niels Louis-Hansen,6630000000,98100000,1.5,1060000000,19.1,Denmark,Health Care
+262,Frank Lowy,6590000000,22200000,0.3,882000000,15.5,Australia,Real Estate
+263,Bertil Hult,6580000000,93900000,1.4,-1400000000,-17.6,Sweden,Diversified
+264,Ronda Stryker,6560000000,-84900000,-1.3,1560000000,31.3,United States,Health Care
+265,Giorgio Armani,6560000000,35500000,0.6,661000000,11.2,Italy,Consumer
+266,John Sall,6550000000,31100000,0.5,1410000000,27.3,United States,Technology
+267,Takahisa Takahara,6530000000,-17600000,-0.3,364000000,5.9,Japan,Consumer
+268,Benu Gopal Bangur,6530000000,82100000,1.3,858000000,15.1,India,Commodities
+269,Jim Pattison,6500000000,9610000,0.1,198000000,3.1,Canada,Media &amp; Telecom
+270,Tsai Eng-Meng,6490000000,25400000,0.4,1040000000,19.0,Taiwan,Food &amp; Beverage
+271,Les Wexner,6450000000,73100000,1.1,375000000,6.2,United States,Retail
+272,Aloys Wobben,6450000000,189000000,3.0,886000000,15.9,Germany,Energy
+273,Teh Hong Piow,6410000000,-87600000,-1.4,-893000000,-12.2,Malaysia,Finance
+274,Richard LeFrak,6400000000,15200000,0.2,-869000000,-11.9,United States,Real Estate
+275,Jay Y Lee,6390000000,127000000,2.0,265000000,4.3,"Korea, Republic of",Diversified
+276,Chen Bang,6350000000,365000000,6.1,3280000000,106.7,China,Health Care
+277,Anders Holch Povlsen,6350000000,29100000,0.5,2330000000,58.0,Denmark,Retail
+278,Pedro Moreira Salles,6330000000,44300000,0.7,537000000,9.3,Brazil,Finance
+279,Steven Spielberg,6300000000,25000000,0.4,700000000,12.5,United States,Entertainment
+280,Savitri Jindal,6300000000,244000000,4.0,-1170000000,-15.6,India,Commodities
+281,Dannine Avara,6300000000,57400000,0.9,327000000,5.5,United States,Energy
+282,Scott Duncan,6300000000,57400000,0.9,327000000,5.5,United States,Energy
+283,Randa Duncan Williams,6300000000,57400000,0.9,327000000,5.5,United States,Energy
+284,Milane Duncan Frantz,6300000000,57400000,0.9,329000000,5.5,United States,Energy
+285,Simon Reuben,6280000000,25000000,0.4,369000000,6.3,United Kingdom,Diversified
+286,David Sun,6280000000,71300000,1.1,2340000000,59.4,United States,Technology
+287,John Tu,6280000000,71300000,1.1,2340000000,59.4,United States,Technology
+288,David Reuben,6280000000,25000000,0.4,369000000,6.3,United Kingdom,Diversified
+289,Jeff Hildebrand,6250000000,97900000,1.6,213000000,3.5,United States,Energy
+290,Finn Rausing,6210000000,39000000,0.6,673000000,12.2,Sweden,Services
+291,Kirsten Rausing,6210000000,39000000,0.6,673000000,12.2,Sweden,Services
+292,Majid Al Futtaim,6210000000,7270000,0.1,763000000,14.0,United Arab Emirates,Real Estate
+293,Stef Wertheimer,6200000000,25000000,0.4,700000000,12.7,Israel,Diversified
+294,Natie Kirsh,6180000000,8950000,0.1,471000000,8.2,South Africa,Food &amp; Beverage
+295,Shari Arison,6180000000,-3600000,-0.1,1100000000,21.6,Israel,Diversified
+296,Robert Smith,6080000000,0,0.0,2060000000,51.1,United States,Finance
+297,Ernie Garcia,6060000000,125000000,2.1,3080000000,103.2,United States,Consumer
+298,Nie Tengyun,6050000000,161000000,2.7,1790000000,41.9,China,Services
+299,Joao Moreira Salles,6020000000,40700000,0.7,405000000,7.2,Brazil,Finance
+300,Fernando Moreira Salles,6020000000,39600000,0.7,405000000,7.2,Brazil,Finance
+301,Walter Salles,6020000000,39600000,0.7,404000000,7.2,Brazil,Finance
+302,Shigenobu Nagamori,6010000000,-6940000,-0.1,1320000000,28.2,Japan,Industrial
+303,Joe Lewis,6000000000,31500000,0.5,356000000,6.3,United Kingdom,Diversified
+304,Tan Kim Choo,5990000000,63700000,1.1,1160000000,24.0,Singapore,Real Estate
+305,Alexander Otto,5990000000,3590000,0.1,1330000000,28.6,Germany,Real Estate
+306,Jerry Jones,5980000000,1770000,0.0,272000000,4.8,United States,Entertainment
+307,Juan Beckmann,5970000000,53600000,0.9,1430000000,31.5,Mexico,Food &amp; Beverage
+308,Udo Tschira,5960000000,41500000,0.7,1520000000,34.2,Germany,Technology
+309,Harald Tschira,5960000000,41500000,0.7,1520000000,34.2,Germany,Technology
+310,David Thomson,5930000000,37700000,0.6,1250000000,26.8,Canada,Media &amp; Telecom
+311,Olav Thon,5890000000,133000000,2.3,1520000000,34.8,Norway,Real Estate
+312,Chen Lip Keong,5880000000,-113000000,-1.9,2190000000,59.6,Malaysia,Entertainment
+313,Zhou Qunfei,5850000000,162000000,2.9,2870000000,95.9,China,Technology
+314,Kenneth Dart,5850000000,32700000,0.6,1280000000,28.0,Cayman Islands,Finance
+315,Taylor Thomson,5850000000,37300000,0.6,1400000000,31.6,Canada,Media &amp; Telecom
+316,Peter Thomson,5850000000,37300000,0.6,1430000000,32.3,Canada,Media &amp; Telecom
+317,Tamara Hughes Gustavson,5840000000,-71200000,-1.2,880000000,17.7,United States,Services
+318,Zeng Yuqun,5830000000,51500000,0.9,-476000000,-7.5,Hong Kong,Industrial
+319,Kumar Birla,5830000000,156000000,2.8,-733000000,-11.2,India,Industrial
+320,Nancy Walton Laurie,5810000000,17200000,0.3,1120000000,23.8,United States,Retail
+321,Magdalena Martullo-Blocher,5800000000,23100000,0.4,1550000000,36.6,Switzerland,Industrial
+322,Philip Ng,5780000000,36500000,0.6,553000000,10.6,Singapore,Real Estate
+323,Wang Zhenhua,5750000000,225000000,4.1,2520000000,77.8,China,Real Estate
+324,Hiroshi Mikitani,5750000000,-78200000,-1.3,1570000000,37.7,Japan,Retail
+325,Dhanin Chearavanont,5740000000,43900000,0.8,1190000000,26.2,Thailand,Retail
+326,Sunil Mittal,5740000000,34400000,0.6,948000000,19.8,India,Media &amp; Telecom
+327,Frederik Paulsen,5720000000,38000000,0.7,-836000000,-12.8,Sweden,Health Care
+328,Gabe Newell,5700000000,-14000000,-0.3,1480000000,35.1,United States,Technology
+329,Robert Ng,5690000000,35300000,0.6,564000000,11.0,Singapore,Real Estate
+330,Tom Love,5690000000,73500000,1.3,1240000000,28.0,United States,Retail
+331,Judy Love,5690000000,73500000,1.3,1240000000,28.0,United States,Retail
+332,Petr Aven,5680000000,19900000,0.3,243000000,4.5,Russian Federation,Diversified
+333,Terry Pegula,5660000000,25000000,0.4,450000000,8.7,United States,Energy
+334,Lynn Schusterman,5640000000,28100000,0.5,592000000,11.7,United States,Energy
+335,Wu Shaoxun,5640000000,18100000,0.3,-244000000,-4.2,China,Food &amp; Beverage
+336,Guenther Fielmann,5630000000,15500000,0.3,1190000000,26.6,Germany,Consumer
+337,Rahel Blocher,5630000000,23100000,0.4,1500000000,36.5,Switzerland,Industrial
+338,Vivien Chen,5600000000,996000,0.0,-67000000,-1.2,Hong Kong,Real Estate
+339,Seo Jung-Jin,5570000000,-42500000,-0.8,-1050000000,-15.9,"Korea, Republic of",Health Care
+340,Leonard Stern,5530000000,25000000,0.5,637000000,13.0,United States,Real Estate
+341,Quek Leng Chan,5530000000,-5420000,-0.1,752000000,15.7,Malaysia,Diversified
+342,JK Irving,5530000000,19200000,0.3,414000000,8.1,Canada,Commodities
+343,Izzy Englander,5520000000,7110000,0.1,470000000,9.3,United States,Finance
+344,Ermirio de Moraes,5520000000,8740000,0.2,706000000,14.7,Brazil,Commodities
+345,Maria Helena Moraes,5520000000,7990000,0.1,706000000,14.7,Brazil,Industrial
+346,David Shaw,5520000000,4640000,0.1,488000000,9.7,United States,Finance
+347,Rahul Bajaj,5500000000,109000000,2.0,771000000,16.3,India,Diversified
+348,Elizabeth Johnson,5430000000,48800000,0.9,1980000000,57.4,United States,Finance
+349,Ned Johnson IV,5430000000,48000000,0.9,1980000000,57.4,United States,Finance
+350,Andy Bechtolsheim,5420000000,-763000000,-12.3,-414000000,-7.1,Germany,Technology
+351,Charles Butt,5420000000,88100000,1.6,-481000000,-8.2,United States,Retail
+352,Rinat Akhmetov,5420000000,107000000,2.0,208000000,4.0,Ukraine,Industrial
+353,Bidzina Ivanishvili,5420000000,25000000,0.5,425000000,8.5,Georgia,Diversified
+354,Liz Mohn,5410000000,35000000,0.7,1050000000,24.0,Germany,Media &amp; Telecom
+355,John Reece,5400000000,98400000,1.9,1860000000,52.5,United Kingdom,Industrial
+356,Li Shuirong,5370000000,109000000,2.1,990000000,22.6,China,Energy
+357,Andrew Currie,5370000000,97800000,1.9,1850000000,52.5,United Kingdom,Industrial
+358,Antti Herlin,5360000000,29500000,0.6,1340000000,33.2,Finland,Industrial
+359,Odd Reitan,5310000000,113000000,2.2,959000000,22.1,Norway,Food &amp; Beverage
+360,Edward Roski,5280000000,0,0.0,785000000,17.4,United States,Real Estate
+361,Axel Oberwelland,5280000000,-17000000,-0.3,679000000,14.8,Germany,Food &amp; Beverage
+362,Rafael del Pino,5280000000,96300000,1.9,1630000000,44.6,Spain,Industrial
+363,Michael Herz,5280000000,-69100000,-1.3,608000000,13.0,Germany,Consumer
+364,Wolfgang Herz,5280000000,-69100000,-1.3,608000000,13.0,Germany,Consumer
+365,Sultan Al Kabeer,5280000000,1230000,0.0,334000000,6.8,Saudi Arabia,Consumer
+366,Zhang Jindong,5270000000,96900000,1.9,408000000,8.4,China,Retail
+367,Iskander Makhmudov,5260000000,142000000,2.8,1210000000,29.9,Russian Federation,Commodities
+368,Richard Branson,5250000000,21000000,0.4,254000000,5.1,United Kingdom,Diversified
+369,Ray Hunt,5250000000,63200000,1.2,-28700000,-0.5,United States,Energy
+370,Clive Calder,5250000000,-50000000,-0.9,594000000,12.8,United Kingdom,Entertainment
+371,Kjeld Kristiansen,5240000000,7610000,0.1,783000000,17.6,Denmark,Consumer
+372,Charles Dolan,5230000000,43400000,0.8,118000000,2.3,United States,Media &amp; Telecom
+373,Trevor Rees-Jones,5220000000,69800000,1.4,706000000,15.6,United States,Energy
+374,Tito Beveridge,5220000000,27000000,0.5,1190000000,29.5,United States,Consumer
+375,Dennis Washington,5210000000,67600000,1.3,550000000,11.8,United States,Industrial
+376,Micree Zhan,5200000000,0,0.0,14000000,0.3,China,Technology
+377,Pat Stryker,5190000000,-51900000,-1.0,1150000000,28.5,United States,Health Care
+378,Michael Otto,5180000000,-4900000,-0.1,2049999999,65.5,Germany,Retail
+379,Margaretta Taylor,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media &amp; Telecom
+380,James Chambers,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media &amp; Telecom
+381,Katharine Rayner,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media &amp; Telecom
+382,Anthony Pratt,5170000000,24900000,0.5,836000000,19.3,Australia,Industrial
+383,Naguib Sawiris,5170000000,6510000,0.1,408000000,8.6,Egypt,Media &amp; Telecom
+384,Sam Zell,5160000000,22400000,0.4,920000000,21.7,United States,Real Estate
+385,Barry Diller,5130000000,34000000,0.7,1030000000,25.2,United States,Technology
+386,Walter Scott,5130000000,1100000,0.0,1170000000,29.4,United States,Energy
+387,Jeff Sutton,5110000000,0,0.0,0,0.0,United States,Real Estate
+388,Suleiman Kerimov,5060000000,2080000,0.0,1280000000,33.8,Russian Federation,Commodities
+389,Stan Druckenmiller,5060000000,0,0.0,0,0.0,United States,Finance
+390,Sumet Jiaravanon,5050000000,32500000,0.7,1090000000,27.6,Thailand,Diversified
+391,Thomas Kristiansen,5040000000,-17200000,-0.3,716000000,16.6,Denmark,Consumer
+392,Sofie Kiaer Kristiansen,5040000000,-17300000,-0.3,708000000,16.3,Denmark,Consumer
+393,Agnete Thinggaard,5040000000,-17400000,-0.3,708000000,16.3,Denmark,Consumer
+394,Johan Johannson,5040000000,72000000,1.4,1700000000,51.0,Norway,Retail
+395,Wolfgang Marguerre,5030000000,91800000,1.9,309000000,6.5,Germany,Health Care
+396,Pierre Bellon,5000000000,5790000,0.1,515000000,11.5,France,Retail
+397,Andre Hoffmann,4990000000,18000000,0.4,953000000,23.6,Switzerland,Health Care
+398,Alain Merieux,4990000000,25600000,0.5,990000000,24.7,France,Health Care
+399,Helen Johnson-Leipold,4980000000,15500000,0.3,343000000,7.4,United States,Consumer
+400,Jean-Michel Besnier,4980000000,-46300000,-0.9,1660000000,50.0,France,Food &amp; Beverage
+401,Ann Walton Kroenke,4970000000,14400000,0.3,1050000000,26.8,United States,Retail
+402,Jensen Huang,4970000000,36400000,0.7,1650000000,49.7,United States,Technology
+403,Lino Saputo,4960000000,2930000,0.1,368000000,8.0,Canada,Food &amp; Beverage
+404,Jaran Chiaravanont,4960000000,32000000,0.7,1010000000,25.7,Thailand,Diversified
+405,Jeff Skoll,4950000000,1080000,0.0,283000000,6.1,United States,Technology
+406,Whitney MacMillan,4950000000,117000000,2.4,625000000,14.4,United States,Commodities
+407,Gwendolyn Sontheim Meyer,4950000000,117000000,2.4,625000000,14.4,United States,Commodities
+408,Pauline MacMillan Keinath,4950000000,117000000,2.4,625000000,14.4,United States,Commodities
+409,Vera Michalski-Hoffmann,4930000000,12800000,0.3,909000000,22.6,Switzerland,Health Care
+410,Maja Hoffmann,4930000000,12800000,0.3,909000000,22.6,Switzerland,Health Care
+411,Montri Jiaravanont,4920000000,31600000,0.7,1070000000,27.9,Thailand,Diversified
+412,Margarita Louis-Dreyfus,4900000000,16200000,0.3,49400000,1.0,Switzerland,Commodities
+413,Tom Morris,4900000000,43100000,0.9,1140000000,30.4,United Kingdom,Retail
+414,Herbert Johnson III,4890000000,14300000,0.3,342000000,7.5,United States,Consumer
+415,Winnie Johnson,4890000000,14300000,0.3,342000000,7.5,United States,Consumer
+416,Curt Johnson III,4890000000,14300000,0.3,342000000,7.5,United States,Consumer
+417,Zong Qinghou,4890000000,94800000,2.0,716000000,17.1,China,Food &amp; Beverage
+418,Frank Wang,4850000000,236000000,5.1,-925000000,-16.0,China,Technology
+419,Denise Coates,4810000000,56400000,1.2,673000000,16.3,United Kingdom,Entertainment
+420,Vincent Bollore,4810000000,63500000,1.3,-56900000,-1.2,France,Diversified
+421,Thomas Schmidheiny,4810000000,29500000,0.6,735000000,18.0,Switzerland,Industrial
+422,Charles Johnson,4810000000,47300000,1.0,320000000,7.1,United States,Finance
+423,Francis Choi,4800000000,-249000,-0.0,19400000,0.4,Hong Kong,Real Estate
+424,Prakash Lohia,4790000000,40400000,0.8,-1900000000,-28.4,Indonesia,Industrial
+425,Richard Li,4780000000,1070000,0.0,394000000,9.0,Hong Kong,Media &amp; Telecom
+426,Isaac Perlmutter,4770000000,71400000,1.5,711000000,17.5,United States,Entertainment
+427,Thomas Strungmann,4720000000,78800,0.0,647000000,15.9,Germany,Health Care
+428,Andreas Strungmann,4720000000,78800,0.0,647000000,15.9,Germany,Health Care
+429,Jack Dorsey,4720000000,61500000,1.3,444000000,10.4,United States,Technology
+430,Mary Malone,4700000000,37300000,0.8,1020000000,27.8,United States,Food &amp; Beverage
+431,Sheldon Solow,4700000000,0,0.0,354000000,8.1,United States,Real Estate
+432,Suh Kyung-Bae,4690000000,79700000,1.7,285000000,6.5,"Korea, Republic of",Consumer
+433,Laurence Graff,4680000000,30900000,0.7,77800000,1.7,United Kingdom,Consumer
+434,Vikram Lal,4670000000,-73500000,-1.6,-239000000,-4.9,India,Industrial
+435,Anthony Bamford,4670000000,25200000,0.5,1200000000,34.6,United Kingdom,Industrial
+436,Fredrik Lundberg,4650000000,78200000,1.7,1010000000,27.7,Sweden,Real Estate
+437,Pansy Catilina Ho,4650000000,39600000,0.9,198000000,4.5,Hong Kong,Entertainment
+438,Lucio Tan,4650000000,24700000,0.5,-407000000,-8.0,Philippines,Diversified
+439,Tom Gores,4650000000,0,0.0,900000000,24.0,United States,Finance
+440,Terry Gou,4650000000,47400000,1.0,15800000,0.3,Taiwan,Industrial
+441,Theo Mueller,4640000000,-54300000,-1.1,-650000000,-12.3,Germany,Food &amp; Beverage
+442,Zhou Hongyi,4630000000,57100000,1.3,279000000,6.4,China,Technology
+443,Bernie Marcus,4630000000,25000000,0.5,525000000,12.8,United States,Retail
+444,Jiang Rensheng,4610000000,-16900000,-0.4,878000000,23.5,China,Health Care
+445,K P Singh,4590000000,73900000,1.6,253000000,5.8,India,Real Estate
+446,Linda Campbell,4580000000,9960000,0.2,1110000000,32.1,Canada,Media &amp; Telecom
+447,Gaye Farncombe,4580000000,9960000,0.2,1110000000,32.1,Canada,Media &amp; Telecom
+448,Ananda Krishnan,4570000000,25200000,0.6,409000000,9.8,Malaysia,Diversified
+449,Chase Coleman,4570000000,0,0.0,924000000,25.4,United States,Finance
+450,Friede Springer,4560000000,8960000,0.2,661000000,16.9,Germany,Media &amp; Telecom
+451,Kelcy Warren,4560000000,102000000,2.3,281000000,6.6,United States,Energy
+452,Howard Schultz,4540000000,-33000000,-0.7,1050000000,30.0,United States,Food &amp; Beverage
+453,Frits Goldschmeding,4540000000,51700000,1.1,665000000,17.2,Netherlands,Retail
+454,Henry Laufer,4530000000,25000000,0.6,625000000,16.0,United States,Finance
+455,Chung Mong-Koo,4510000000,68900000,1.6,364000000,8.8,"Korea, Republic of",Industrial
+456,Rupert Johnson,4500000000,77100000,1.7,357000000,8.6,United States,Finance
+457,Vyacheslav Moshe Kantor,4490000000,40300000,0.9,769000000,20.6,Russian Federation,Industrial
+458,Shahid Khan,4490000000,2140000,0.1,367000000,8.9,United States,Consumer
+459,Bill Koch,4480000000,-1750000,-0.0,487000000,12.2,United States,Diversified
+460,,4480000000,0,0.0,4480000000,0.0,,
+461,Angela Leong,4460000000,8580000,0.2,776000000,21.1,Hong Kong,Entertainment
+462,Bob Kraft,4460000000,728000,0.0,280000000,6.7,United States,Entertainment
+463,Mark Shoen,4450000000,8470000,0.2,669000000,17.7,United States,Services
+464,David Filo,4450000000,25000000,0.6,62500000,1.4,United States,Technology
+465,Andrey Guryev,4440000000,17900000,0.4,426000000,10.6,Russian Federation,Industrial
+466,Dan Cathy,4440000000,-38800000,-0.9,701000000,18.7,United States,Food &amp; Beverage
+467,Bubba Cathy,4440000000,-38800000,-0.9,701000000,18.7,United States,Food &amp; Beverage
+468,John Brown,4440000000,-66900000,-1.5,1120000000,33.9,United States,Technology
+469,Enrique Razon,4410000000,26300000,0.6,619000000,16.3,Philippines,Services
+470,Yao Liangsong,4410000000,-110000000,-2.4,1070000000,32.0,China,Retail
+471,Mark Scheinberg,4400000000,25000000,0.6,803000000,22.3,Isle of Man,Entertainment
+472,John Paulson,4400000000,0,0.0,-1080000000,-19.7,United States,Finance
+473,Jeremy Jacobs,4380000000,-20600000,-0.5,436000000,11.1,United States,Food &amp; Beverage
+474,Kim Jungju,4380000000,-31100000,-0.7,-339000000,-7.2,"Korea, Republic of",Technology
+475,Martin Viessmann,4380000000,7840000,0.2,790000000,22.0,Germany,Industrial
+476,Mike Adenuga,4380000000,17600000,0.4,785000000,21.9,Nigeria,Media &amp; Telecom
+477,B Wayne Hughes,4370000000,-15100000,-0.3,367000000,9.2,United States,Services
+478,Marie Besnier Beauvalot,4350000000,-40500000,-0.9,1030000000,31.0,France,Food &amp; Beverage
+479,Traudl Engelhorn-Vechiatto,4350000000,0,0.0,425000000,10.8,Switzerland,Diversified
+480,Ivan Glasenberg,4300000000,127000000,3.0,-475000000,-9.9,Australia,Commodities
+481,Chip Wilson,4300000000,-18800000,-0.4,1050000000,32.5,Canada,Retail
+482,Stein Erik Hagen,4290000000,44800000,1.1,662000000,18.2,Norway,Consumer
+483,Masahiro Miki,4290000000,-25200000,-0.6,806000000,23.1,Japan,Retail
+484,Tilman Fertitta,4269999999,18200000,0.4,-39900000,-0.9,United States,Entertainment
+485,Dick Schulze,4260000000,40100000,0.9,946000000,28.5,United States,Retail
+486,Mark Cuban,4250000000,25000000,0.6,350000000,9.0,United States,Technology
+487,Thomas Pritzker,4250000000,15400000,0.4,410000000,10.7,United States,Finance
+488,Idan Ofer,4240000000,-1410000,-0.0,8880000,0.2,Israel,Energy
+489,David Bonderman,4230000000,46400000,1.1,1860000000,78.8,United States,Finance
+490,Red Emmerson,4230000000,0,0.0,325000000,8.3,United States,Industrial
+491,Gordon Getty,4230000000,25000000,0.6,475000000,12.7,United States,Diversified
+492,Barry Lam,4219999999,48600000,1.2,546000000,14.8,Taiwan,Technology
+493,Brian Acton,4200000000,25000000,0.6,475000000,12.8,United States,Technology
+494,Patrick Collison,4200000000,0,0.0,1770000000,72.5,Ireland,Technology
+495,John Collison,4200000000,0,0.0,1770000000,72.5,Ireland,Technology
+496,Randall Rollins,4200000000,59100000,1.4,2390000000,132.6,United States,Industrial
+497,Woody Johnson,4190000000,-1310000,-0.0,3360000,0.1,United States,Diversified
+498,Anthoni Salim,4179999999,23700000,0.6,176000000,4.4,Indonesia,Diversified
+499,Abdullah Al Ghurair,4179999999,-854000,-0.0,-273000000,-6.1,United Arab Emirates,Diversified
+500,Gary Rollins,4150000000,58700000,1.4,2350000000,130.8,United States,Industrial
