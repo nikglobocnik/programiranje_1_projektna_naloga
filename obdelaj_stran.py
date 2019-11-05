@@ -19,6 +19,7 @@ podatki_vrstica = re.compile(
 )
 
 def spremeni(string):
+    '''Funkcija primerno spremeni nize.'''
     for znak in string:
         if znak == '+':
             string = string.replace('+', '')
@@ -43,6 +44,7 @@ def spremeni(string):
 
 
 def podatki_v_vrstici(vrst): 
+    '''Funkcija iz podatkov v vrsticah naredi slovar glede na dana gesla.'''
     if podatki_vrstica.search(vrst) == None:
         return
     else:
@@ -66,7 +68,7 @@ def nalozi_strani():
 spl_str = (f'/Users/nik/programiranje_1_projektna_naloga/nalozena_stran_rocno/rocno_shranjen_html.html')
 
 vse_vrstice = []
-def zdruzi_database():
+def zdruzi_vrstice():
     for vrstica in vrstice_na_spletni_strani(spl_str):
         vse_vrstice.append(vrstica)
 
@@ -81,6 +83,6 @@ def ustvari_csv():
 
 
 nalozi_strani()
-zdruzi_database()
+zdruzi_vrstice()
 ustvari_json()
 ustvari_csv()
