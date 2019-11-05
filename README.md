@@ -29,3 +29,7 @@ Podatke sem pridobil z zajemom. Ustrezne skripte pa se nahajajo v datoteki `obde
 
 *Opomba*: Pri shranjevanju spletne strani sem naletel na težavo. Spletna stran je zaznala "čudno dejavnost" in funkcija je shranila html datoteko, ki se nahaja v `nalozene_strani/nalozen_html.html`.  V njej opazimo sporočilo **Are you a robot?**
 Zato sem spletno stran, ki sem jo analiziral shranih "na roke". Nahaja se v mapi `html_rocno`. Zato je primerno prilagojena tudi koda v datoteki `obdelaj_stran.py`.
+
+###
+
+*Nik Globočnik*
