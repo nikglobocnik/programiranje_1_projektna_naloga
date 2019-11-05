@@ -67,6 +67,8 @@ def nalozi_strani():
 
 spl_str = (f'/Users/nik/programiranje_1_projektna_naloga/nalozena_stran_rocno/rocno_shranjen_html.html')
 
+# Zgoraj spletno stran definiramo drugače, kot naloženo, ker se pojavi težava pri zajemu spletne strani.
+
 vse_vrstice = []
 def zdruzi_vrstice():
     for vrstica in vrstice_na_spletni_strani(spl_str):
