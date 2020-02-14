@@ -17,8 +17,8 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 16,Jim Walton,53300000000,171000000,0.3,9380000000,21.4,United States,Retail
 17,Steve Ballmer,53300000000,142000000,0.3,14600000000,37.8,United States,Technology
 18,Alice Walton,52300000000,155000000,0.3,9750000000,22.9,United States,Retail
-19,Jacqueline Mars,41600000000,-337000000,-0.8,8890000000,27.1,United States,Food &amp; Beverage
-20,John Mars,41600000000,-337000000,-0.8,8880000000,27.1,United States,Food &amp; Beverage
+19,Jacqueline Mars,41600000000,-337000000,-0.8,8890000000,27.1,United States,Food & Beverage
+20,John Mars,41600000000,-337000000,-0.8,8880000000,27.1,United States,Food & Beverage
 21,Jack Ma,41600000000,-28500000,-0.1,5920000000,16.6,China,Technology
 22,Francois Pinault,37700000000,334000000,0.9,7630000000,25.4,France,Consumer
 23,MacKenzie Bezos,36000000000,292000000,0.8,36000000000,0.0,United States,Technology
@@ -27,7 +27,7 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 26,Phil Knight,33000000000,0,0.0,3990000000,13.7,United States,Consumer
 27,Tadashi Yanai,31900000000,197000000,0.6,5380000000,20.3,Japan,Retail
 28,Michael Dell,31300000000,170000000,0.5,3060000000,10.9,United States,Technology
-29,Giovanni Ferrero,30000000000,-267000000,-0.9,7620000000,34.1,Italy,Food &amp; Beverage
+29,Giovanni Ferrero,30000000000,-267000000,-0.9,7620000000,34.1,Italy,Food & Beverage
 30,Li Ka-Shing,28300000000,105000000,0.4,125000000,0.4,Hong Kong,Real Estate
 31,Alain Wertheimer,27300000000,-207000000,-0.8,8270000000,43.4,France,Consumer
 32,Gerard Wertheimer,27300000000,-207000000,-0.8,8270000000,43.4,France,Consumer
@@ -39,9 +39,9 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 38,Leonardo del Vecchio,24600000000,-71900000,-0.3,4130000000,20.1,Italy,Consumer
 39,Lee Shau Kee,24300000000,68500000,0.3,3180000000,15.1,Hong Kong,Real Estate
 40,Leonid Mikhelson,24200000000,312000000,1.3,4810000000,24.8,Russian Federation,Energy
-41,Laurene Powell Jobs,24100000000,480000000,2.0,6040000000,33.3,United States,Media &amp; Telecom
+41,Laurene Powell Jobs,24100000000,480000000,2.0,6040000000,33.3,United States,Media & Telecom
 42,Yang Huiyan,24100000000,350000000,1.5,5910000000,32.5,China,Real Estate
-43,Jorge Paulo Lemann,22500000000,-75500000,-0.3,2960000000,15.1,Brazil,Food &amp; Beverage
+43,Jorge Paulo Lemann,22500000000,-75500000,-0.3,2960000000,15.1,Brazil,Food & Beverage
 44,Pallonji Mistry,22100000000,-329000000,-1.5,1420000000,6.9,Ireland,Industrial
 45,Colin Huang,21500000000,316000000,1.5,9880000000,84.9,China,Technology
 46,Carl Icahn,20900000000,199000000,1.0,3690000000,21.4,United States,Diversified
@@ -49,7 +49,7 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 48,Vagit Alekperov,20900000000,519000000,2.5,4850000000,30.2,Russian Federation,Energy
 49,Jim Simons,20700000000,50000000,0.2,5350000000,34.8,United States,Finance
 50,Leonard  Lauder,20700000000,52900000,0.3,5510000000,36.4,United States,Consumer
-51,Charoen Sirivadhanabhakdi,20500000000,-6550000,-0.0,7970000000,63.6,Thailand,Food &amp; Beverage
+51,Charoen Sirivadhanabhakdi,20500000000,-6550000,-0.0,7970000000,63.6,Thailand,Food & Beverage
 52,Stefan Persson,20500000000,178000000,0.9,5890000000,40.4,Sweden,Retail
 53,Takemitsu Takizaki,20200000000,1410000000,7.5,5140000000,34.2,Japan,Technology
 54,He Xiangjian,20200000000,866000000,4.5,7120000000,54.6,China,Consumer
@@ -77,14 +77,14 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 76,Robert Kuok,16300000000,124000000,0.8,-177000000,-1.1,Malaysia,Diversified
 77,Donald Bren,16200000000,0,0.0,-1000000000,-5.8,United States,Real Estate
 78,Shiv Nadar,16100000000,7920000,0.1,2500000000,18.4,India,Technology
-79,Lee Man Tat,16000000000,46400000,0.3,-762000000,-4.5,Hong Kong,Food &amp; Beverage
+79,Lee Man Tat,16000000000,46400000,0.3,-762000000,-4.5,Hong Kong,Food & Beverage
 80,Carl Cook,15900000000,-22400000,-0.1,3630000000,29.6,United States,Health Care
 81,Alisher Usmanov,15900000000,81500000,0.5,1690000000,11.9,Russian Federation,Diversified
 82,Budi Hartono,15800000000,94900000,0.6,2210000000,16.2,Indonesia,Diversified
-83,Charlene de Carvalho-Heineken,15600000000,-37700000,-0.2,1710000000,12.3,Netherlands,Food &amp; Beverage
+83,Charlene de Carvalho-Heineken,15600000000,-37700000,-0.2,1710000000,12.3,Netherlands,Food & Beverage
 84,Roman Abramovich,15500000000,198000000,1.3,1390000000,9.8,Russian Federation,Diversified
 85,Aliko Dangote,15300000000,13000000,0.1,4810000000,45.8,Nigeria,Industrial
-86,Donald Newhouse,15200000000,206000000,1.4,4099999999,36.8,United States,Media &amp; Telecom
+86,Donald Newhouse,15200000000,206000000,1.4,4099999999,36.8,United States,Media & Telecom
 87,Thomas Peterffy,15200000000,-175000000,-1.1,-2260000000,-12.9,United States,Finance
 88,Iris Fontbona,15200000000,198000000,1.3,931000000,6.5,Chile,Commodities
 89,Wang Jianlin,15000000000,189000000,1.3,-2580000000,-14.7,China,Real Estate
@@ -100,9 +100,9 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 99,Zhang Zhidong,13900000000,34200000,0.3,381000000,2.8,China,Technology
 100,Masayoshi Son,13900000000,-16800000,-0.1,1730000000,14.3,Japan,Technology
 101,Mikhail Fridman,13600000000,98900000,0.7,1090000000,8.7,Russian Federation,Diversified
-102,Alejandro Santo Domingo,13400000000,-80100000,-0.6,2220000000,19.9,Colombia,Food &amp; Beverage
+102,Alejandro Santo Domingo,13400000000,-80100000,-0.6,2220000000,19.9,Colombia,Food & Beverage
 103,Jim Goodnight,13100000000,62100000,0.5,2690000000,25.8,United States,Technology
-104,Pang Kang,13100000000,76300000,0.6,5040000000,62.5,China,Food &amp; Beverage
+104,Pang Kang,13100000000,76300000,0.6,5040000000,62.5,China,Food & Beverage
 105,James Dyson,13000000000,366000000,2.9,3780000000,40.9,United Kingdom,Consumer
 106,Zhang Yiming,13000000000,0,0.0,0,0.0,China,Technology
 107,Reinhold Wuerth,13000000000,236000000,1.9,2860000000,28.3,Germany,Industrial
@@ -114,8 +114,8 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 113,Beate Heister,12400000000,22200000,0.2,3520000000,39.6,Germany,Retail
 114,Lakshmi Mittal,12400000000,377000000,3.1,-1390000000,-10.1,India,Commodities
 115,Phil Anschutz,12200000000,32900000,0.3,719000000,6.3,United States,Diversified
-116,Patrick Drahi,12200000000,152000000,1.3,6230000000,104.7,France,Media &amp; Telecom
-117,Charlie Ergen,12200000000,137000000,1.1,3110000000,34.3,United States,Media &amp; Telecom
+116,Patrick Drahi,12200000000,152000000,1.3,6230000000,104.7,France,Media & Telecom
+117,Charlie Ergen,12200000000,137000000,1.1,3110000000,34.3,United States,Media & Telecom
 118,Raymond Kwok,11900000000,-19900000,-0.2,909000000,8.3,Hong Kong,Real Estate
 119,Hugh Grosvenor,11800000000,0,0.0,-625000000,-5.0,United Kingdom,Real Estate
 120,Peter Woo,11800000000,-90600000,-0.8,1240000000,11.8,Hong Kong,Real Estate
@@ -128,7 +128,7 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 127,Thomas Kwok,11400000000,-18700000,-0.2,427000000,3.9,Hong Kong,Real Estate
 128,Wu Yajun,11400000000,-15900000,-0.1,3330000000,41.5,China,Real Estate
 129,Sara Mota de Larrea,11200000000,124000000,1.1,2580000000,30.1,Mexico,Commodities
-130,Dietrich Mateschitz,11100000000,71700000,0.7,-1420000000,-11.3,Austria,Food &amp; Beverage
+130,Dietrich Mateschitz,11100000000,71700000,0.7,-1420000000,-11.3,Austria,Food & Beverage
 131,Eyal Ofer,11100000000,30900000,0.3,1750000000,18.7,Israel,Services
 132,Dave Duffield,11100000000,193000000,1.8,542000000,5.1,United States,Technology
 133,Gordon Moore,11000000000,21000000,0.2,1760000000,19.0,United States,Technology
@@ -140,12 +140,12 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 139,Joseph Tsai,10700000000,-10500000,-0.1,1980000000,22.6,Canada,Technology
 140,Radhakishan Damani,10600000000,-64900000,-0.6,1760000000,19.9,India,Retail
 141,Eduardo Saverin,10500000000,105000000,1.0,3380000000,47.3,Brazil,Technology
-142,Marcel Telles,10400000000,-35000000,-0.3,1390000000,15.3,Brazil,Food &amp; Beverage
+142,Marcel Telles,10400000000,-35000000,-0.3,1390000000,15.3,Brazil,Food & Beverage
 143,Autry Stephens,10400000000,0,0.0,-950000000,-8.4,United States,Energy
-144,Marijke Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food &amp; Beverage
-145,Victoria Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food &amp; Beverage
-146,Pam Mars-Wright,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food &amp; Beverage
-147,Valerie Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food &amp; Beverage
+144,Marijke Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food & Beverage
+145,Victoria Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food & Beverage
+146,Pam Mars-Wright,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food & Beverage
+147,Valerie Mars,10400000000,-84100000,-0.8,2220000000,27.2,United States,Food & Beverage
 148,George Kaiser,10300000000,82700000,0.8,189000000,1.9,United States,Energy
 149,Ron Perelman,10000000000,101000000,1.0,233000000,2.4,United States,Diversified
 150,Gautam Adani,10000000000,96600000,1.0,2240000000,28.9,India,Industrial
@@ -163,16 +163,16 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 162,Lei Jun,9480000000,85600000,0.9,-2380000000,-20.1,China,Technology
 163,Dmitry Rybolovlev,9460000000,8170000,0.1,-592000000,-5.9,Russian Federation,Diversified
 164,David Geffen,9450000000,129000000,1.4,1780000000,23.2,United States,Entertainment
-165,Sherry Brydson,9400000000,48700000,0.5,2530000000,36.9,Canada,Media &amp; Telecom
+165,Sherry Brydson,9400000000,48700000,0.5,2530000000,36.9,Canada,Media & Telecom
 166,Harry Triguboff,9380000000,0,0.0,181000000,2.0,Australia,Real Estate
-167,Carlos Sicupira,9340000000,-10800000,-0.1,1030000000,12.4,Brazil,Food &amp; Beverage
+167,Carlos Sicupira,9340000000,-10800000,-0.1,1030000000,12.4,Brazil,Food & Beverage
 168,Steve Cohen,9210000000,1870000,0.0,-971000000,-9.5,United States,Finance
 169,German Khan,9190000000,65500000,0.7,792000000,9.4,Russian Federation,Diversified
 170,Wee Cho Yaw,9130000000,-14900000,-0.2,1320000000,16.9,Singapore,Finance
 171,Galen Weston,9120000000,-16000000,-0.2,2320000000,34.2,Canada,Retail
 172,Alberto Bailleres,9030000000,149000000,1.7,-963000000,-9.6,Mexico,Commodities
 173,Harold Hamm,8980000000,184000000,2.1,-2860000000,-24.1,United States,Energy
-174,Xu Shihui,8980000000,30300000,0.3,99700000,1.1,China,Food &amp; Beverage
+174,Xu Shihui,8980000000,30300000,0.3,99700000,1.1,China,Food & Beverage
 175,Li Xiting,8970000000,96800000,1.1,3670000000,69.2,Singapore,Health Care
 176,August von Finck,8920000000,-14800000,-0.2,715000000,8.7,Germany,Diversified
 177,Reinhold Schmieding,8860000000,52400000,0.6,1920000000,27.6,United States,Health Care
@@ -182,31 +182,31 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 181,John Fredriksen,8730000000,145000000,1.7,398000000,4.8,Cyprus,Industrial
 182,Patrick Soon-Shiong,8680000000,30900000,0.4,1040000000,13.7,United States,Health Care
 183,Victor Rashnikov,8630000000,132000000,1.6,192000000,2.3,Russian Federation,Industrial
-184,Shu Ping,8580000000,-123000000,-1.4,4780000000,125.6,Singapore,Food &amp; Beverage
-185,Zhang Yong,8560000000,-123000000,-1.4,4750000000,125.0,Singapore,Food &amp; Beverage
+184,Shu Ping,8580000000,-123000000,-1.4,4780000000,125.6,Singapore,Food & Beverage
+185,Zhang Yong,8560000000,-123000000,-1.4,4750000000,125.0,Singapore,Food & Beverage
 186,Leonid Fedun,8510000000,225000000,2.7,1980000000,30.3,Russian Federation,Energy
 187,Christy Walton,8500000000,23000000,0.3,1570000000,22.6,United States,Retail
 188,Heinrich Deichmann,8490000000,121000000,1.4,2340000000,38.1,Germany,Retail
 189,Sarath Ratanavadi,8439999999,21500000,0.3,4490000000,113.5,Thailand,Energy
 190,Charles Schwab,8400000000,162000000,2.0,449000000,5.6,United States,Finance
 191,Xu Hang,8300000000,87900000,1.1,3320000000,66.8,Hong Kong,Health Care
-192,Marian Ilitch,8289999999,-35600000,-0.4,2000000000,31.8,United States,Food &amp; Beverage
+192,Marian Ilitch,8289999999,-35600000,-0.4,2000000000,31.8,United States,Food & Beverage
 193,Cyrus Poonawalla,8270000000,82900000,1.0,207000000,2.6,India,Health Care
 194,Andy Beal,8260000000,55500000,0.7,31900000,0.4,United States,Finance
 195,Dan Gilbert,8160000000,179000000,2.3,2250000000,38.2,United States,Real Estate
 196,John Albert Sobrato,8150000000,0,0.0,877000000,12.1,United States,Real Estate
 197,Paolo Rocca,8140000000,329000000,4.2,1050000000,14.8,Italy,Commodities
-198,Emmanuel Besnier,8070000000,-75100000,-0.9,720000000,9.8,France,Food &amp; Beverage
-199,Silvio Berlusconi,8050000000,65200000,0.8,1070000000,15.4,Italy,Media &amp; Telecom
+198,Emmanuel Besnier,8070000000,-75100000,-0.9,720000000,9.8,France,Food & Beverage
+199,Silvio Berlusconi,8050000000,65200000,0.8,1070000000,15.4,Italy,Media & Telecom
 200,Gustaf Douglas,8029999999,128000000,1.6,704000000,9.6,Sweden,Diversified
-201,John Malone,8020000000,31200000,0.4,-76400000,-0.9,United States,Media &amp; Telecom
+201,John Malone,8020000000,31200000,0.4,-76400000,-0.9,United States,Media & Telecom
 202,Stan Kroenke,8000000000,0,0.0,-40000000,-0.5,United States,Real Estate
 203,Richard Kinder,7980000000,130000000,1.7,1840000000,30.0,United States,Energy
 204,Robert Rowling,7870000000,98100000,1.3,-1150000000,-12.7,United States,Energy
 205,Scott Farquhar,7830000000,122000000,1.6,1990000000,34.0,Australia,Technology
 206,Mike Cannon-Brookes,7830000000,122000000,1.6,1990000000,34.0,Australia,Technology
-207,Blair Parry-Okeden,7820000000,-260000000,-3.2,-71900000,-0.9,United States,Media &amp; Telecom
-208,Jim Kennedy,7820000000,-260000000,-3.2,-71900000,-0.9,United States,Media &amp; Telecom
+207,Blair Parry-Okeden,7820000000,-260000000,-3.2,-71900000,-0.9,United States,Media & Telecom
+208,Jim Kennedy,7820000000,-260000000,-3.2,-71900000,-0.9,United States,Media & Telecom
 209,Melker Schorling,7780000000,165000000,2.2,333000000,4.5,Sweden,Diversified
 210,Tan Siok Tjien,7740000000,-221000000,-2.8,-2290000000,-22.8,Indonesia,Consumer
 211,Andrew Forrest,7730000000,86600000,1.1,4500000000,139.7,Australia,Commodities
@@ -223,7 +223,7 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 222,Eli Broad,7400000000,0,0.0,480000000,6.9,United States,Diversified
 223,Jorn Rausing,7360000000,47000000,0.6,1170000000,19.0,Sweden,Services
 224,Antonia Axson Johnson,7340000000,94600000,1.3,1080000000,17.3,Sweden,Industrial
-225,Qin Yinglin,7330000000,-299000000,-3.9,5090000000,226.7,China,Food &amp; Beverage
+225,Qin Yinglin,7330000000,-299000000,-3.9,5090000000,226.7,China,Food & Beverage
 226,Robert Pera,7320000000,-205000000,-2.7,1410000000,23.9,United States,Technology
 227,John P Grayken,7250000000,178000000,2.5,1630000000,29.1,Ireland,Finance
 228,Tim Sweeney,7230000000,25000000,0.3,75000000,1.1,United States,Technology
@@ -236,14 +236,14 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 235,Pierre Omidyar,7140000000,56500000,0.8,-926000000,-11.5,United States,Technology
 236,Gong Hongjia,7110000000,72100000,1.0,786000000,12.4,China,Technology
 237,Dang Yanbao,7110000000,37300000,0.5,-1220000000,-14.7,China,Energy
-238,Rupert Murdoch,7110000000,95700000,1.4,-10900000000,-60.6,United States,Media &amp; Telecom
+238,Rupert Murdoch,7110000000,95700000,1.4,-10900000000,-60.6,United States,Media & Telecom
 239,Arthur Irving,7070000000,101000000,1.4,1920000000,37.3,Canada,Energy
 240,Nicky Oppenheimer,7000000000,-25000000,-0.4,400000000,6.1,South Africa,Diversified
 241,Henry Kravis,6990000000,80700000,1.2,1530000000,28.1,United States,Finance
 242,George Roberts,6990000000,83700000,1.2,1570000000,28.8,United States,Finance
 243,Marc Benioff,6950000000,113000000,1.6,933000000,15.5,United States,Technology
 244,Alexey Kuzmichev,6950000000,50800000,0.7,594000000,9.3,Russian Federation,Diversified
-245,Bob Rich,6930000000,-13500000,-0.2,1460000000,26.6,United States,Food &amp; Beverage
+245,Bob Rich,6930000000,-13500000,-0.2,1460000000,26.6,United States,Food & Beverage
 246,Jude Reyes,6910000000,140000000,2.1,2560000000,59.0,United States,Consumer
 247,Chris Reyes,6910000000,140000000,2.1,2560000000,59.0,United States,Consumer
 248,Ludwig Merckle,6880000000,82800000,1.2,1520000000,28.3,Germany,Industrial
@@ -254,11 +254,11 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 253,Johann Graf,6810000000,44600000,0.7,973000000,16.7,Austria,Entertainment
 254,Graeme Hart,6790000000,67300000,1.0,911000000,15.5,New Zealand,Finance
 255,Nassef Sawiris,6770000000,92500000,1.4,817000000,13.7,Egypt,Industrial
-256,Rocco Commisso,6770000000,49500000,0.7,2810000000,71.0,United States,Media &amp; Telecom
+256,Rocco Commisso,6770000000,49500000,0.7,2810000000,71.0,United States,Media & Telecom
 257,George Soros,6700000000,0,0.0,-300000000,-4.3,United States,Finance
 258,Cai Kui,6640000000,-8450000,-0.1,1830000000,37.9,China,Real Estate
 259,Ralph Lauren,6640000000,49100000,0.7,358000000,5.7,United States,Consumer
-260,Yasumitsu Shigeta,6630000000,-6690000,-0.1,1880000000,39.5,Japan,Media &amp; Telecom
+260,Yasumitsu Shigeta,6630000000,-6690000,-0.1,1880000000,39.5,Japan,Media & Telecom
 261,Niels Louis-Hansen,6630000000,98100000,1.5,1060000000,19.1,Denmark,Health Care
 262,Frank Lowy,6590000000,22200000,0.3,882000000,15.5,Australia,Real Estate
 263,Bertil Hult,6580000000,93900000,1.4,-1400000000,-17.6,Sweden,Diversified
@@ -267,8 +267,8 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 266,John Sall,6550000000,31100000,0.5,1410000000,27.3,United States,Technology
 267,Takahisa Takahara,6530000000,-17600000,-0.3,364000000,5.9,Japan,Consumer
 268,Benu Gopal Bangur,6530000000,82100000,1.3,858000000,15.1,India,Commodities
-269,Jim Pattison,6500000000,9610000,0.1,198000000,3.1,Canada,Media &amp; Telecom
-270,Tsai Eng-Meng,6490000000,25400000,0.4,1040000000,19.0,Taiwan,Food &amp; Beverage
+269,Jim Pattison,6500000000,9610000,0.1,198000000,3.1,Canada,Media & Telecom
+270,Tsai Eng-Meng,6490000000,25400000,0.4,1040000000,19.0,Taiwan,Food & Beverage
 271,Les Wexner,6450000000,73100000,1.1,375000000,6.2,United States,Retail
 272,Aloys Wobben,6450000000,189000000,3.0,886000000,15.9,Germany,Energy
 273,Teh Hong Piow,6410000000,-87600000,-1.4,-893000000,-12.2,Malaysia,Finance
@@ -292,7 +292,7 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 291,Kirsten Rausing,6210000000,39000000,0.6,673000000,12.2,Sweden,Services
 292,Majid Al Futtaim,6210000000,7270000,0.1,763000000,14.0,United Arab Emirates,Real Estate
 293,Stef Wertheimer,6200000000,25000000,0.4,700000000,12.7,Israel,Diversified
-294,Natie Kirsh,6180000000,8950000,0.1,471000000,8.2,South Africa,Food &amp; Beverage
+294,Natie Kirsh,6180000000,8950000,0.1,471000000,8.2,South Africa,Food & Beverage
 295,Shari Arison,6180000000,-3600000,-0.1,1100000000,21.6,Israel,Diversified
 296,Robert Smith,6080000000,0,0.0,2060000000,51.1,United States,Finance
 297,Ernie Garcia,6060000000,125000000,2.1,3080000000,103.2,United States,Consumer
@@ -305,16 +305,16 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 304,Tan Kim Choo,5990000000,63700000,1.1,1160000000,24.0,Singapore,Real Estate
 305,Alexander Otto,5990000000,3590000,0.1,1330000000,28.6,Germany,Real Estate
 306,Jerry Jones,5980000000,1770000,0.0,272000000,4.8,United States,Entertainment
-307,Juan Beckmann,5970000000,53600000,0.9,1430000000,31.5,Mexico,Food &amp; Beverage
+307,Juan Beckmann,5970000000,53600000,0.9,1430000000,31.5,Mexico,Food & Beverage
 308,Udo Tschira,5960000000,41500000,0.7,1520000000,34.2,Germany,Technology
 309,Harald Tschira,5960000000,41500000,0.7,1520000000,34.2,Germany,Technology
-310,David Thomson,5930000000,37700000,0.6,1250000000,26.8,Canada,Media &amp; Telecom
+310,David Thomson,5930000000,37700000,0.6,1250000000,26.8,Canada,Media & Telecom
 311,Olav Thon,5890000000,133000000,2.3,1520000000,34.8,Norway,Real Estate
 312,Chen Lip Keong,5880000000,-113000000,-1.9,2190000000,59.6,Malaysia,Entertainment
 313,Zhou Qunfei,5850000000,162000000,2.9,2870000000,95.9,China,Technology
 314,Kenneth Dart,5850000000,32700000,0.6,1280000000,28.0,Cayman Islands,Finance
-315,Taylor Thomson,5850000000,37300000,0.6,1400000000,31.6,Canada,Media &amp; Telecom
-316,Peter Thomson,5850000000,37300000,0.6,1430000000,32.3,Canada,Media &amp; Telecom
+315,Taylor Thomson,5850000000,37300000,0.6,1400000000,31.6,Canada,Media & Telecom
+316,Peter Thomson,5850000000,37300000,0.6,1430000000,32.3,Canada,Media & Telecom
 317,Tamara Hughes Gustavson,5840000000,-71200000,-1.2,880000000,17.7,United States,Services
 318,Zeng Yuqun,5830000000,51500000,0.9,-476000000,-7.5,Hong Kong,Industrial
 319,Kumar Birla,5830000000,156000000,2.8,-733000000,-11.2,India,Industrial
@@ -324,7 +324,7 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 323,Wang Zhenhua,5750000000,225000000,4.1,2520000000,77.8,China,Real Estate
 324,Hiroshi Mikitani,5750000000,-78200000,-1.3,1570000000,37.7,Japan,Retail
 325,Dhanin Chearavanont,5740000000,43900000,0.8,1190000000,26.2,Thailand,Retail
-326,Sunil Mittal,5740000000,34400000,0.6,948000000,19.8,India,Media &amp; Telecom
+326,Sunil Mittal,5740000000,34400000,0.6,948000000,19.8,India,Media & Telecom
 327,Frederik Paulsen,5720000000,38000000,0.7,-836000000,-12.8,Sweden,Health Care
 328,Gabe Newell,5700000000,-14000000,-0.3,1480000000,35.1,United States,Technology
 329,Robert Ng,5690000000,35300000,0.6,564000000,11.0,Singapore,Real Estate
@@ -333,7 +333,7 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 332,Petr Aven,5680000000,19900000,0.3,243000000,4.5,Russian Federation,Diversified
 333,Terry Pegula,5660000000,25000000,0.4,450000000,8.7,United States,Energy
 334,Lynn Schusterman,5640000000,28100000,0.5,592000000,11.7,United States,Energy
-335,Wu Shaoxun,5640000000,18100000,0.3,-244000000,-4.2,China,Food &amp; Beverage
+335,Wu Shaoxun,5640000000,18100000,0.3,-244000000,-4.2,China,Food & Beverage
 336,Guenther Fielmann,5630000000,15500000,0.3,1190000000,26.6,Germany,Consumer
 337,Rahel Blocher,5630000000,23100000,0.4,1500000000,36.5,Switzerland,Industrial
 338,Vivien Chen,5600000000,996000,0.0,-67000000,-1.2,Hong Kong,Real Estate
@@ -352,14 +352,14 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 351,Charles Butt,5420000000,88100000,1.6,-481000000,-8.2,United States,Retail
 352,Rinat Akhmetov,5420000000,107000000,2.0,208000000,4.0,Ukraine,Industrial
 353,Bidzina Ivanishvili,5420000000,25000000,0.5,425000000,8.5,Georgia,Diversified
-354,Liz Mohn,5410000000,35000000,0.7,1050000000,24.0,Germany,Media &amp; Telecom
+354,Liz Mohn,5410000000,35000000,0.7,1050000000,24.0,Germany,Media & Telecom
 355,John Reece,5400000000,98400000,1.9,1860000000,52.5,United Kingdom,Industrial
 356,Li Shuirong,5370000000,109000000,2.1,990000000,22.6,China,Energy
 357,Andrew Currie,5370000000,97800000,1.9,1850000000,52.5,United Kingdom,Industrial
 358,Antti Herlin,5360000000,29500000,0.6,1340000000,33.2,Finland,Industrial
-359,Odd Reitan,5310000000,113000000,2.2,959000000,22.1,Norway,Food &amp; Beverage
+359,Odd Reitan,5310000000,113000000,2.2,959000000,22.1,Norway,Food & Beverage
 360,Edward Roski,5280000000,0,0.0,785000000,17.4,United States,Real Estate
-361,Axel Oberwelland,5280000000,-17000000,-0.3,679000000,14.8,Germany,Food &amp; Beverage
+361,Axel Oberwelland,5280000000,-17000000,-0.3,679000000,14.8,Germany,Food & Beverage
 362,Rafael del Pino,5280000000,96300000,1.9,1630000000,44.6,Spain,Industrial
 363,Michael Herz,5280000000,-69100000,-1.3,608000000,13.0,Germany,Consumer
 364,Wolfgang Herz,5280000000,-69100000,-1.3,608000000,13.0,Germany,Consumer
@@ -370,18 +370,18 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 369,Ray Hunt,5250000000,63200000,1.2,-28700000,-0.5,United States,Energy
 370,Clive Calder,5250000000,-50000000,-0.9,594000000,12.8,United Kingdom,Entertainment
 371,Kjeld Kristiansen,5240000000,7610000,0.1,783000000,17.6,Denmark,Consumer
-372,Charles Dolan,5230000000,43400000,0.8,118000000,2.3,United States,Media &amp; Telecom
+372,Charles Dolan,5230000000,43400000,0.8,118000000,2.3,United States,Media & Telecom
 373,Trevor Rees-Jones,5220000000,69800000,1.4,706000000,15.6,United States,Energy
 374,Tito Beveridge,5220000000,27000000,0.5,1190000000,29.5,United States,Consumer
 375,Dennis Washington,5210000000,67600000,1.3,550000000,11.8,United States,Industrial
 376,Micree Zhan,5200000000,0,0.0,14000000,0.3,China,Technology
 377,Pat Stryker,5190000000,-51900000,-1.0,1150000000,28.5,United States,Health Care
 378,Michael Otto,5180000000,-4900000,-0.1,2049999999,65.5,Germany,Retail
-379,Margaretta Taylor,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media &amp; Telecom
-380,James Chambers,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media &amp; Telecom
-381,Katharine Rayner,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media &amp; Telecom
+379,Margaretta Taylor,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media & Telecom
+380,James Chambers,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media & Telecom
+381,Katharine Rayner,5170000000,-179000000,-3.3,-47600000,-0.9,United States,Media & Telecom
 382,Anthony Pratt,5170000000,24900000,0.5,836000000,19.3,Australia,Industrial
-383,Naguib Sawiris,5170000000,6510000,0.1,408000000,8.6,Egypt,Media &amp; Telecom
+383,Naguib Sawiris,5170000000,6510000,0.1,408000000,8.6,Egypt,Media & Telecom
 384,Sam Zell,5160000000,22400000,0.4,920000000,21.7,United States,Real Estate
 385,Barry Diller,5130000000,34000000,0.7,1030000000,25.2,United States,Technology
 386,Walter Scott,5130000000,1100000,0.0,1170000000,29.4,United States,Energy
@@ -398,10 +398,10 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 397,Andre Hoffmann,4990000000,18000000,0.4,953000000,23.6,Switzerland,Health Care
 398,Alain Merieux,4990000000,25600000,0.5,990000000,24.7,France,Health Care
 399,Helen Johnson-Leipold,4980000000,15500000,0.3,343000000,7.4,United States,Consumer
-400,Jean-Michel Besnier,4980000000,-46300000,-0.9,1660000000,50.0,France,Food &amp; Beverage
+400,Jean-Michel Besnier,4980000000,-46300000,-0.9,1660000000,50.0,France,Food & Beverage
 401,Ann Walton Kroenke,4970000000,14400000,0.3,1050000000,26.8,United States,Retail
 402,Jensen Huang,4970000000,36400000,0.7,1650000000,49.7,United States,Technology
-403,Lino Saputo,4960000000,2930000,0.1,368000000,8.0,Canada,Food &amp; Beverage
+403,Lino Saputo,4960000000,2930000,0.1,368000000,8.0,Canada,Food & Beverage
 404,Jaran Chiaravanont,4960000000,32000000,0.7,1010000000,25.7,Thailand,Diversified
 405,Jeff Skoll,4950000000,1080000,0.0,283000000,6.1,United States,Technology
 406,Whitney MacMillan,4950000000,117000000,2.4,625000000,14.4,United States,Commodities
@@ -415,7 +415,7 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 414,Herbert Johnson III,4890000000,14300000,0.3,342000000,7.5,United States,Consumer
 415,Winnie Johnson,4890000000,14300000,0.3,342000000,7.5,United States,Consumer
 416,Curt Johnson III,4890000000,14300000,0.3,342000000,7.5,United States,Consumer
-417,Zong Qinghou,4890000000,94800000,2.0,716000000,17.1,China,Food &amp; Beverage
+417,Zong Qinghou,4890000000,94800000,2.0,716000000,17.1,China,Food & Beverage
 418,Frank Wang,4850000000,236000000,5.1,-925000000,-16.0,China,Technology
 419,Denise Coates,4810000000,56400000,1.2,673000000,16.3,United Kingdom,Entertainment
 420,Vincent Bollore,4810000000,63500000,1.3,-56900000,-1.2,France,Diversified
@@ -423,12 +423,12 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 422,Charles Johnson,4810000000,47300000,1.0,320000000,7.1,United States,Finance
 423,Francis Choi,4800000000,-249000,-0.0,19400000,0.4,Hong Kong,Real Estate
 424,Prakash Lohia,4790000000,40400000,0.8,-1900000000,-28.4,Indonesia,Industrial
-425,Richard Li,4780000000,1070000,0.0,394000000,9.0,Hong Kong,Media &amp; Telecom
+425,Richard Li,4780000000,1070000,0.0,394000000,9.0,Hong Kong,Media & Telecom
 426,Isaac Perlmutter,4770000000,71400000,1.5,711000000,17.5,United States,Entertainment
 427,Thomas Strungmann,4720000000,78800,0.0,647000000,15.9,Germany,Health Care
 428,Andreas Strungmann,4720000000,78800,0.0,647000000,15.9,Germany,Health Care
 429,Jack Dorsey,4720000000,61500000,1.3,444000000,10.4,United States,Technology
-430,Mary Malone,4700000000,37300000,0.8,1020000000,27.8,United States,Food &amp; Beverage
+430,Mary Malone,4700000000,37300000,0.8,1020000000,27.8,United States,Food & Beverage
 431,Sheldon Solow,4700000000,0,0.0,354000000,8.1,United States,Real Estate
 432,Suh Kyung-Bae,4690000000,79700000,1.7,285000000,6.5,"Korea, Republic of",Consumer
 433,Laurence Graff,4680000000,30900000,0.7,77800000,1.7,United Kingdom,Consumer
@@ -439,18 +439,18 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 438,Lucio Tan,4650000000,24700000,0.5,-407000000,-8.0,Philippines,Diversified
 439,Tom Gores,4650000000,0,0.0,900000000,24.0,United States,Finance
 440,Terry Gou,4650000000,47400000,1.0,15800000,0.3,Taiwan,Industrial
-441,Theo Mueller,4640000000,-54300000,-1.1,-650000000,-12.3,Germany,Food &amp; Beverage
+441,Theo Mueller,4640000000,-54300000,-1.1,-650000000,-12.3,Germany,Food & Beverage
 442,Zhou Hongyi,4630000000,57100000,1.3,279000000,6.4,China,Technology
 443,Bernie Marcus,4630000000,25000000,0.5,525000000,12.8,United States,Retail
 444,Jiang Rensheng,4610000000,-16900000,-0.4,878000000,23.5,China,Health Care
 445,K P Singh,4590000000,73900000,1.6,253000000,5.8,India,Real Estate
-446,Linda Campbell,4580000000,9960000,0.2,1110000000,32.1,Canada,Media &amp; Telecom
-447,Gaye Farncombe,4580000000,9960000,0.2,1110000000,32.1,Canada,Media &amp; Telecom
+446,Linda Campbell,4580000000,9960000,0.2,1110000000,32.1,Canada,Media & Telecom
+447,Gaye Farncombe,4580000000,9960000,0.2,1110000000,32.1,Canada,Media & Telecom
 448,Ananda Krishnan,4570000000,25200000,0.6,409000000,9.8,Malaysia,Diversified
 449,Chase Coleman,4570000000,0,0.0,924000000,25.4,United States,Finance
-450,Friede Springer,4560000000,8960000,0.2,661000000,16.9,Germany,Media &amp; Telecom
+450,Friede Springer,4560000000,8960000,0.2,661000000,16.9,Germany,Media & Telecom
 451,Kelcy Warren,4560000000,102000000,2.3,281000000,6.6,United States,Energy
-452,Howard Schultz,4540000000,-33000000,-0.7,1050000000,30.0,United States,Food &amp; Beverage
+452,Howard Schultz,4540000000,-33000000,-0.7,1050000000,30.0,United States,Food & Beverage
 453,Frits Goldschmeding,4540000000,51700000,1.1,665000000,17.2,Netherlands,Retail
 454,Henry Laufer,4530000000,25000000,0.6,625000000,16.0,United States,Finance
 455,Chung Mong-Koo,4510000000,68900000,1.6,364000000,8.8,"Korea, Republic of",Industrial
@@ -464,19 +464,19 @@ mesto,ime,premozenje,zadnja_sprememba,zadnja_sprememba_procenti,letna_sprememba,
 463,Mark Shoen,4450000000,8470000,0.2,669000000,17.7,United States,Services
 464,David Filo,4450000000,25000000,0.6,62500000,1.4,United States,Technology
 465,Andrey Guryev,4440000000,17900000,0.4,426000000,10.6,Russian Federation,Industrial
-466,Dan Cathy,4440000000,-38800000,-0.9,701000000,18.7,United States,Food &amp; Beverage
-467,Bubba Cathy,4440000000,-38800000,-0.9,701000000,18.7,United States,Food &amp; Beverage
+466,Dan Cathy,4440000000,-38800000,-0.9,701000000,18.7,United States,Food & Beverage
+467,Bubba Cathy,4440000000,-38800000,-0.9,701000000,18.7,United States,Food & Beverage
 468,John Brown,4440000000,-66900000,-1.5,1120000000,33.9,United States,Technology
 469,Enrique Razon,4410000000,26300000,0.6,619000000,16.3,Philippines,Services
 470,Yao Liangsong,4410000000,-110000000,-2.4,1070000000,32.0,China,Retail
 471,Mark Scheinberg,4400000000,25000000,0.6,803000000,22.3,Isle of Man,Entertainment
 472,John Paulson,4400000000,0,0.0,-1080000000,-19.7,United States,Finance
-473,Jeremy Jacobs,4380000000,-20600000,-0.5,436000000,11.1,United States,Food &amp; Beverage
+473,Jeremy Jacobs,4380000000,-20600000,-0.5,436000000,11.1,United States,Food & Beverage
 474,Kim Jungju,4380000000,-31100000,-0.7,-339000000,-7.2,"Korea, Republic of",Technology
 475,Martin Viessmann,4380000000,7840000,0.2,790000000,22.0,Germany,Industrial
-476,Mike Adenuga,4380000000,17600000,0.4,785000000,21.9,Nigeria,Media &amp; Telecom
+476,Mike Adenuga,4380000000,17600000,0.4,785000000,21.9,Nigeria,Media & Telecom
 477,B Wayne Hughes,4370000000,-15100000,-0.3,367000000,9.2,United States,Services
-478,Marie Besnier Beauvalot,4350000000,-40500000,-0.9,1030000000,31.0,France,Food &amp; Beverage
+478,Marie Besnier Beauvalot,4350000000,-40500000,-0.9,1030000000,31.0,France,Food & Beverage
 479,Traudl Engelhorn-Vechiatto,4350000000,0,0.0,425000000,10.8,Switzerland,Diversified
 480,Ivan Glasenberg,4300000000,127000000,3.0,-475000000,-9.9,Australia,Commodities
 481,Chip Wilson,4300000000,-18800000,-0.4,1050000000,32.5,Canada,Retail
